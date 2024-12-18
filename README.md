@@ -7,7 +7,7 @@ Log in to GitHub:**
 
 - Go to GitHub and sign in to your account.
 
-![alt text](repo1.png)
+![alt text](./repo1.png)
 - Create a New Repository:
 
 - Click the green "New" button or go to your repositories and click "New".
